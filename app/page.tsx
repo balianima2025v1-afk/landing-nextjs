@@ -6,10 +6,10 @@ export default function Home() {
       <div className="w-full max-w-2xl px-4 py-12 text-center">
         <Image src="/logo.png" alt="Logo" width={80} height={80} className="mx-auto mb-6" />
         <h1 className="text-4xl md:text-5xl font-bold mb-4 text-blue-700">
-          Selamat Datang di Landing Page Anda!
+          Selamat Datang di Landing Page Next.js!
         </h1>
         <p className="text-lg md:text-xl text-gray-700 mb-8">
-          Bangun website profesional dengan Next.js. Mudah, cepat, dan gratis untuk deploy di Vercel.
+          Bangun website profesional dengan Next.js 13. Mudah, cepat, dan gratis untuk deploy di Vercel.
         </p>
         <a
           href="https://vercel.com/new"
