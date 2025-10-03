@@ -1,10 +1,7 @@
-import Image from "next/image";
-
 export default function Home() {
   return (
     <main className="flex min-h-screen flex-col items-center justify-center bg-gradient-to-b from-white to-blue-50">
       <div className="w-full max-w-2xl px-4 py-12 text-center">
-        <Image src="/logo.png" alt="Logo" width={80} height={80} className="mx-auto mb-6" />
         <h1 className="text-4xl md:text-5xl font-bold mb-4 text-blue-700">
           Selamat Datang di Landing Page Next.js!
         </h1>
